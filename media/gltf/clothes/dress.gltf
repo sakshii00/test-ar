@@ -1,0 +1,494 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3011,
+      "max": [
+        18.517709732055664,
+        159.46693420410156,
+        9.94101333618164
+      ],
+      "min": [
+        -18.620832443237305,
+        94.3997802734375,
+        -15.011845588684082
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 36132,
+      "componentType": 5126,
+      "count": 3011,
+      "max": [
+        0.9996275901794434,
+        0.9997202754020691,
+        0.9999997615814209
+      ],
+      "min": [
+        -0.9973977208137512,
+        -0.9995935559272766,
+        -0.9996084570884705
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3011,
+      "max": [
+        237.56936645507813,
+        238.4288330078125
+      ],
+      "min": [
+        -237.56936645507813,
+        -199.888427734375
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 14931,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 72264,
+      "componentType": 5126,
+      "count": 3718,
+      "max": [
+        22.181167602539063,
+        160.5020751953125,
+        10.576805114746094
+      ],
+      "min": [
+        -22.97157096862793,
+        87.13523864746094,
+        -15.925981521606445
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 116880,
+      "componentType": 5126,
+      "count": 3718,
+      "max": [
+        0.9996275901794434,
+        0.9997202754020691,
+        0.9999926090240479
+      ],
+      "min": [
+        -0.9993504285812378,
+        -0.996862530708313,
+        -0.9999783635139465
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 24088,
+      "componentType": 5126,
+      "count": 3718,
+      "max": [
+        422.537841796875,
+        293.9609375
+      ],
+      "min": [
+        -422.537841796875,
+        -293.960693359375
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 59724,
+      "componentType": 5125,
+      "count": 18531,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 161496,
+      "componentType": 5126,
+      "count": 67,
+      "max": [
+        3.7043933868408203,
+        140.5255584716797,
+        9.197385787963867
+      ],
+      "min": [
+        -2.6189138889312744,
+        126.02989959716797,
+        7.9905104637146
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 162300,
+      "componentType": 5126,
+      "count": 67,
+      "max": [
+        0.5900048017501831,
+        0.38847222924232483,
+        0.9987159967422485
+      ],
+      "min": [
+        -0.3543650209903717,
+        -0.7002485394477844,
+        0.6365330219268799
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 53832,
+      "componentType": 5126,
+      "count": 67,
+      "max": [
+        12.148681640625,
+        4.287109375
+      ],
+      "min": [
+        -12.3284912109375,
+        -4.4268798828125
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 133848,
+      "componentType": 5125,
+      "count": 108,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 163104,
+      "componentType": 5126,
+      "count": 820,
+      "max": [
+        22.461881637573242,
+        160.53114318847656,
+        10.700261116027832
+      ],
+      "min": [
+        -23.02985191345215,
+        86.60441589355469,
+        -16.226173400878906
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 172944,
+      "componentType": 5126,
+      "count": 820,
+      "max": [
+        0.9986516833305359,
+        0.9988698959350586,
+        0.9999926090240479
+      ],
+      "min": [
+        -0.9993504285812378,
+        -0.7610220313072205,
+        -0.9999783635139465
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 54368,
+      "componentType": 5126,
+      "count": 820,
+      "max": [
+        500.6729736328125,
+        293.9609375
+      ],
+      "min": [
+        -500.6730041503906,
+        -293.960693359375
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 134280,
+      "componentType": 5125,
+      "count": 2424,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "mictab (https://sketchfab.com/Michela.Tabone)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/cute-short-dress-442596ae75cb4a3e9432152282f677f3",
+      "title": "Cute Short Dress"
+    },
+    "generator": "Sketchfab-13.37.1",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 143976,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 60928,
+      "byteOffset": 143976,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 182784,
+      "byteOffset": 204904,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 387688,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "FABRIC_1_FRONT_3601",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.006598275912249235,
+          0.006598275912249235,
+          0.006598275912249235,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9826311700321614
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "Transparent_FRONT_5162189",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          0.3337153027513988
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9826311700321614
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "FABRIC_1_FRONT_5162174",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9826311700321614
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "FABRIC_2_FRONT_5595950",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9826311700321614
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "CuteShortDress_FABRIC 1_FRONT_3601_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "CuteShortDress_ Transparent_FRONT_5162189_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "CuteShortDress_FABRIC 1_FRONT_5162174_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "CuteShortDress_FABRIC 2_FRONT_5595950_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.0010000000474974513,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0010000000474974513,
+        0.0,
+        0.0,
+        -0.0010000000474974513,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "2757ad08e91a40099dc6e19aeaf63e24.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "matrix": [
+        10.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        10.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        10.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "CuteShortDress"
+    },
+    {
+      "mesh": 0,
+      "name": "CuteShortDress_FABRIC 1_FRONT_3601_0"
+    },
+    {
+      "mesh": 1,
+      "name": "CuteShortDress_ Transparent_FRONT_5162189_0"
+    },
+    {
+      "mesh": 2,
+      "name": "CuteShortDress_FABRIC 1_FRONT_5162174_0"
+    },
+    {
+      "mesh": 3,
+      "name": "CuteShortDress_FABRIC 2_FRONT_5595950_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
